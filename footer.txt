@@ -1,0 +1,53 @@
+ <div class="clearfix"></div>
+
+<style type="text/css">
+
+	#footer .subheader{
+		color: white;
+	}
+	#networks{
+		display: block;
+		width: 300px;
+		margin:0px auto;
+		list-style: none;
+		margin-bottom: 20px;
+		margin-top: 20px;
+	}
+	#networks li{
+		float: left;
+		margin-left: 20px;
+		margin-right: 20px;
+		transition: all 300ms;
+	}
+	#networks li:hover{
+		opacity: 0.8;
+		transform: scale(1.1,1.1);
+	}
+	
+</style>
+
+    <footer id="footer" class="verde"> 
+    <div class="container">
+    	<h2 class="subheader" >theSniper</h2>
+    	<p class="subheader">Envianos un mensaje en cualquiera de estas redes sociales</p>
+    	<ul id="networks" >
+    		<li>
+    			<a href="">
+    				<img src="img/twitter.png">
+    			</a>
+    		</li>
+    		<li>
+    			<a href="">
+    				<img src="img/facebook.png">
+    			</a>
+    		</li>
+    		<li>
+    			<a href="">
+    				<img src="img/instagram.png">
+    			</a>
+    		</li>
+
+       <div class="clearfix"></div>
+    	</ul>
+    </div>
+    </footer>

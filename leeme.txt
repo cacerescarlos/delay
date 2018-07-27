@@ -1,0 +1,5 @@
+instalar sublime
+instalar xampp o wamp
+crear carpeta curso-pwa 
+crear archivo index.html
+
